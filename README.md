@@ -1,1 +1,1 @@
-# PYthonPractice
+# PythonPractice
